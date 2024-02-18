@@ -1,2 +1,2 @@
-# test-project
-This is my first project on GitHub.
+# About my first project on GitHub
+It is just something to upload at the moment.
